@@ -1,9 +1,9 @@
 
-import Pizza from "../images/pizza1.jpg"
-import Pizza2 from "../images/pizza5.jpg"
-import Pizza3 from "../images/pizza6.jfif"
-import Pizza4 from "../images/pizza7.jfif"
-import Pizza5 from "../images/uspizza.jpg"
+import Pizza from "../images/pizza8.jpg"
+import Pizza2 from "../images/pizza9.jpg"
+import Pizza3 from "../images/pizza10.png"
+import Pizza4 from "../images/pizza11.jpg"
+import Pizza5 from "../images/american.jpg"
 import Pizza6 from "../images/american.jpg"
 const Prices = () => {
     return (
